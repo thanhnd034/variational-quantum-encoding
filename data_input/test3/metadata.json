@@ -1,0 +1,7 @@
+{
+    "n_qubits": 10,
+    "num_vectors": 1,
+    "min_val": -100,
+    "max_val": 100,
+    "vector_dimension": 1024
+}
