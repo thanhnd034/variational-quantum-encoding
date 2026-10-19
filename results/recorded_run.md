@@ -12,4 +12,4 @@ The values below are transcribed from files already committed under `data_output
 
 Supporting files: [final loss](../data_output/test0/vector_0/final_loss.txt), [metadata](../data_output/test0/vector_0/metadata.json), [optimization loss history](../data_output/test0/vector_0/history_loss.txt), [global-fidelity history (source filename)](../data_output/test0/vector_0/history_global_fidelity.txt), and [optimal parameters](../data_output/test0/vector_0/optimal_params.txt).
 
-These files describe **one saved run** rather than mean performance across seeds or datasets. Interpret the loss using the objective in the original training code; no computation has been rerun.
+These files describe **one saved run** rather than mean performance across seeds or datasets. Interpret the loss using the objective in the original training code. No computation has been rerun.
