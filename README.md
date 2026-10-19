@@ -25,6 +25,17 @@ $$
 
 ![Variational circuit](figures/variational_circuit.png)
 
+
+### Additional saved figures
+
+**Reverse-circuit diagram** from the explanatory notebook:
+
+![Reverse state preparation circuit](figures/reverse_circuit.png)
+
+**Training-history visualization** replotted from the committed numerical loss-history file (one saved run, not a statistical benchmark):
+
+![Recorded variational optimization loss](figures/recorded_training_loss.svg)
+
 ## Recorded optimization result
 
 One existing experiment under [data_output/test0/vector_0/](data_output/test0/vector_0/) records a **final loss of 0.00024767535879937074**, with **160 iterations** and **30 trainable parameters** (according to its saved metadata). This is a single run, not an aggregate or independently replicated benchmark. Details are in [results/recorded_run.md](results/recorded_run.md).
