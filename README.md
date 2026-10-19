@@ -46,8 +46,4 @@ One existing experiment under [data_output/test0/vector_0/](data_output/test0/ve
 
 Requires Python, NumPy, SciPy, Matplotlib, Qiskit, and Qiskit Aer. The explanatory notebook additionally imports the legacy `qiskit_textbook` package, so its cells may need adaptation in a current Qiskit environment.
 
-Execute from the repository root so that local module imports resolve. Select hyperparameters and seeds in [configs/settings.py](configs/settings.py). Results shown above are taken from existing committed outputs; **no new optimization run was performed** to generate this README.
-
-## Related projects
-
-[FFT-based homogenization](https://github.com/thanhnd034/fft-homogenization) · [Fourier Neural Operators](https://github.com/thanhnd034/FNO-homogenization-model) · [PD–SPH fluid–structure interaction](https://github.com/thanhnd034/PD-SPH-FSI-model)
+Execute from the repository root so that local module imports resolve. Select hyperparameters and seeds in [configs/settings.py](configs/settings.py). 
